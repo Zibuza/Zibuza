@@ -54,6 +54,8 @@
 
 <h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px;">Developer Statistics:</h3>
 
+<h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px; margin-bottom: 10px;">Developer Statistics:</h3>
+
 <div style="display: flex; gap: 20px;">
   <p style="flex: 1;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&locale=en&theme=radical" alt="zibuza" />
@@ -62,4 +64,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zibuza&show_icons=true&locale=en&layout=compact&theme=radical" alt="zibuza" />
   </p>
 </div>
+
 
