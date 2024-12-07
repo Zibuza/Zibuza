@@ -53,7 +53,9 @@
 <br/>
 
 <h3>Developer Statistics:</h3>
-<hr/>
+<hr style="height: 1px; border-width: 0; background-color: #ccc;" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&locale=en&theme=radical" alt="zibuza" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zibuza&show_icons=true&locale=en&layout=compact&theme=radical" alt="zibuza" /></p>
+
