@@ -50,7 +50,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
 </p>
-
+<br/>
+<br/>
+<h3>Languages and Tools:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&locale=en&theme=radical" alt="zibuza" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zibuza&show_icons=true&locale=en&layout=compact&theme=radical" alt="zibuza" /></p>
