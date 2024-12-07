@@ -52,7 +52,6 @@
 </div>
 <br/>
 
-<h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px;">Developer Statistics:</h3>
 
 <h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px; margin-bottom: 10px;">Developer Statistics:</h3>
 
