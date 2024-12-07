@@ -52,8 +52,8 @@
 </div>
 <br/>
 
-<h3>Developer Statistics:</h3>
-<hr style="height: 0.5px; border-width: 0; background-color: #ddd;" />
+<h3 style="border-bottom: 2px solid #ddd; padding-bottom: 10px;">Developer Statistics:</h3>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&locale=en&theme=radical" alt="zibuza" /></p>
 
