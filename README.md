@@ -61,8 +61,4 @@
   </p>
 </div>
 
-<h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px; margin-bottom: 10px;">Videos:</h3>
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
-</div>
+
