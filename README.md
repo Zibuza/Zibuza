@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikoloz</h1>
-<h3 align="center">Teen Developer | Always Striving to Learn, Grow, and Build</h3>
+<h1>Hi 👋, I'm Nikoloz</h1>
+<h3>Teen Developer | Always Striving to Learn, Grow, and Build</h3>
 
 - 🌱 I’m currently learning **React.js and Python for Data Analysis**
 
@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **nikoloz.zibzibadze16@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://fb.com/nikoloz zibzibadze" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikoloz zibzibadze" height="30" width="40" />
   </a>
@@ -20,8 +20,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3>Languages and Tools:</h3>
+<p> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
@@ -51,12 +51,6 @@
   </a>
 </p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&locale=en"&theme=radical alt="zibuza" /></p> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&theme=radical&locale=en" alt="zibuza" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zibuza&show_icons=true&layout=compact&theme=radical&locale=en" alt="zibuza" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zibuza&show_icons=true&locale=en&layout=compact" alt="zibuza" /></p>
