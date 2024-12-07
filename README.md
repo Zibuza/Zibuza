@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nikoloz</h1>
-<h3 align="center">Teen Developer | Always Striving to Learn, Grow, and Build</h3>
+<h1>Hi 👋, I'm Nikoloz</h1>
+<h3>Teen Developer | Always Striving to Learn, Grow, and Build</h3>
 
 - 🌱 I’m currently learning **React.js and Python for Data Analysis**
-
 - 💬 Ask me about **React.js, Python, Vue.js, Node.js, Express.js, HTML, and CSS**
-
 - 📫 How to reach me **nikoloz.zibzibadze16@gmail.com**
 
 <h3>Connect with me:</h3>
-<div>
+<p>
   <a href="https://fb.com/nikoloz zibzibadze" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikoloz zibzibadze" height="30" width="40" />
   </a>
@@ -18,10 +16,10 @@
   <a href="https://www.youtube.com/c/monkeycode" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monkeycode" height="30" width="40" />
   </a>
-</div>
+</p>
 
 <h3>Languages and Tools:</h3>
-<div style="border-bottom: 2px solid #ddd; padding-bottom: 10px;">
+<p> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
@@ -49,9 +47,8 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
-</div>
+</p>
 <br/>
-
 
 <h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px; margin-bottom: 10px;">Developer Statistics:</h3>
 
@@ -64,4 +61,8 @@
   </p>
 </div>
 
-
+<h3 style="border-bottom: 2px solid #ddd; padding-bottom: 5px; margin-bottom: 10px;">Videos:</h3>
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+</div>
