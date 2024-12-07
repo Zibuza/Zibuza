@@ -52,9 +52,7 @@
 </div>
 <br/>
 
-<h3 style="border-bottom: 2px solid #ddd; padding-bottom: 10px;">Developer Statistics:</h3>
-
-
+<h3 style="border-bottom: 2px solid #ddd;">Developer Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zibuza&show_icons=true&locale=en&theme=radical" alt="zibuza" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zibuza&show_icons=true&locale=en&layout=compact&theme=radical" alt="zibuza" /></p>
